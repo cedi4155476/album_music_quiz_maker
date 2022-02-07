@@ -1,0 +1,2 @@
+class NoSongsAvailableException(Exception):
+    pass
